@@ -1,12 +1,12 @@
 -- Create a table into an existing Database
--- CREATE TABLE dbo.customers_Info(
---     ID INT NOT NULL IDENTITY(1,1) , 
---     FullName VARCHAR(255), 
---     Age INT, 
---     Email VARCHAR(255), 
---     Phone BIGINT,
---     PhoneNumber CHAR(20)
--- );
+CREATE TABLE dbo.customers_Info(
+     ID INT NOT NULL IDENTITY(1,1) , 
+     FullName VARCHAR(255), 
+     Age INT, 
+     Email VARCHAR(255), 
+     Phone BIGINT,
+     PhoneNumber CHAR(20)
+);
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 -- Drop Column Phone from table
