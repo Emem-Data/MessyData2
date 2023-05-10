@@ -110,6 +110,11 @@ We can see that 26 rows have characters greater than 10. We also see that the ex
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/37750e32-26db-457c-9309-c256829335fb)
 
+we would not be working on the NULL values in the phone Number column. There are repeated phone numbers for different users and a working on the Null Value won't make the column any better. 
+
+Now! let's check our final dataset after the cleaning process is done 
+
+
 
 
 
