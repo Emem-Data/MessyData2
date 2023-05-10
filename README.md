@@ -126,7 +126,7 @@ Data cleaning is a crucial step in the data analysis process, as it ensures that
 Overall, this analysis demonstrates the power of SQL as a tool for data cleaning and preparation. By leveraging SQL's robust features and functions, we can ensure that the data used for analysis is accurate, consistent, and reliable, and make more informed decisions as a result. It also touch upon the potential of language models like ChatGPT to generate data and assist in data analysis.
 
 
-
+Thanks for reading through ✨✨🤗
 
 
 
