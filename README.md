@@ -40,6 +40,10 @@ My next step was to confirm the number of rows and column in the table created.
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/85c6fe81-d408-4e6b-a8b7-5517926ebee6)
 
+So we see that there are 35 Rows and 5 Columns. 
+
+I then proceeded to check for the numbers of missing values across each column.
+
 
 
 
