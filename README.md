@@ -65,6 +65,27 @@ Now that I know this, I proceeded to replacing the null values in the Age field 
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/0176b38d-86a8-47f2-9a79-7bcd79d3eae3)
 
+The Mean age of the Column is 35, and so each of the NULL values eere replaced with age '35'.
+
+Now let's fix the Email column.
+
+## EMAIL COLUMN CLEANING
+We already noted that there is only one null value in the email column, but beyond that,there are a lot of inconsistency in the column. Some email addresses don't contain a domain name. We also see that in-between some emails, we have "firstname.lastname@domain.com" format. there shouldn't be a "." in-between the email address, so we'd handle that.
+
+Starting with the second error, we would replace the dot in-between the firstname and lastname with an empty string.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
