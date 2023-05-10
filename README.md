@@ -34,8 +34,9 @@ Moving forward, I checked if my data were intact and yayy.
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/e6adbda4-aec7-4aba-ba8d-1fad0aa5ab05)
 
+My next step was to confirm the number of rows and column in the table created.
 
-
+## CHECK FOR NUMBER OF ROWS AND COLUMN IN THE TABLE
 
 
 
