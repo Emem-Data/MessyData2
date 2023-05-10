@@ -74,6 +74,7 @@ We already noted that there is only one null value in the email column, but beyo
 
 Starting with the second error, we would replace the dot in-between the firstname and lastname with an empty string.
 
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/98e1b723-c576-46e7-b55f-3e0d5b392441)
 
 
 
