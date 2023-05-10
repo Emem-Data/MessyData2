@@ -18,5 +18,8 @@ my next step was to create a Table into the database.
 
 ![2](https://github.com/Emem-Data/MessyData2/assets/103915142/e86713dc-cacc-4a99-a8de-b44a35656d5a)
 
+I figured I had added an extra column with the same feature (Phone and PhoneNumber) and I have to drop one of them. And it had to be the Phonecolumn.
+
+
 
 
