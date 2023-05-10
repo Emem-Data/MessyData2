@@ -30,7 +30,10 @@ Now that the Table Customer_Info has been created, my next step was to insert th
 
 😅 I felt proud right there, inouting every value wasn't an easy task. I also replaced every empty cell with NULL because i ran into errors trying to update as empty strings.
 
-Moving forward, I checked if my data were intact and yayy
+Moving forward, I checked if my data were intact and yayy.
+
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/e6adbda4-aec7-4aba-ba8d-1fad0aa5ab05)
+
 
 
 
