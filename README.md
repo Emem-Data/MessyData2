@@ -10,6 +10,11 @@ Busiest Days                                                                    
 ![2](https://github.com/Emem-Data/MessyData2/assets/103915142/820fa997-f26f-4a71-9771-bf71ec4e5f69) | ![1](https://github.com/Emem-Data/MessyData2/assets/103915142/2e314da7-8b26-43f6-8ddb-3d2fc508c202)
 
 
+I settled for the data I got, and headed straight to Microsoft SQL SERVER to begin computation and Cleaning.
+
+## CREATING A TABLE INTO AN EXISTING DATABASE. 
+I created a database named Customer_Profile on the server workbench. 
+my next step was to create a Table into the database.
 
 
 
