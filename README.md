@@ -57,7 +57,11 @@ My first approach was to check if there were outliers in the column because I wa
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/0cd464b9-5591-4273-9746-a810141e205f)
 
+We could see here, that the result for every column was empty. Ny trust issues wouldn't let me settle for this😅, so i went ahead to solve manually and still used an online Calculator to check if an outlier exist. ladies and gentlemen 😹, the above code result were correct as there are no outlier in the age column. 
 
+Now that I know this, I proceeded to replacing the null values in the Age field with the Mean of the field.
+
+## REPLACING NULL VALUES IN AGE COLUMN WITH THE MEAN AGE.
 
 
 
