@@ -44,8 +44,16 @@ So we see that there are 35 Rows and 5 Columns.
 
 I then proceeded to check for the numbers of missing values across each column.
 
+## NO OF MISSING VALUES IN AGE, EMAIL AND PHONE COLUMNS
+
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/20a917be-9b82-413c-8450-a5448f949887)
 
+Now we get to an interesting and important point of the data cleaning stage. We have seen that 4 values in the Age column are missing, while we have 1 missing value in Email column and 3 missing values in PhoneNumber column. 
+let's start with the Age column. 
+
+My first approach was to check if there were outliers in the column because I wanted to replace every NULL value in the field with the Mean age of the users. From my knowledge of Outliers, I know full well that the Mean is greatly affected by outliers than the Median and Median is a better approach if we have great outliers. 
+
+## CHECK THE AGE COLUMN FOR OUTLIERS.
 
 
 
