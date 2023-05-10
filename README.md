@@ -55,6 +55,9 @@ My first approach was to check if there were outliers in the column because I wa
 
 ## CHECK THE AGE COLUMN FOR OUTLIERS.
 
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/0cd464b9-5591-4273-9746-a810141e205f)
+
+
 
 
 
