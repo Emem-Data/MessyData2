@@ -90,6 +90,8 @@ for this cleaning process, i am assuming that the email field is very important 
 
 ## DELETE ROWS WITH NULL VALUE AND NO DOMAIN
 
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/ea6eb9e1-92b0-4e4e-bd76-747935629774)
+
 
 
 
