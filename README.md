@@ -28,6 +28,10 @@ Now that the Table Customer_Info has been created, my next step was to insert th
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/d8e90709-5bf0-4b75-bbd9-7a0f85b425ac)
 
+😅 I felt proud right there, inouting every value wasn't an easy task. I also replaced every empty cell with NULL because i ran into errors trying to update as empty strings.
+
+Moving forward, I checked if my data were intact and yayy
+
 
 
 
