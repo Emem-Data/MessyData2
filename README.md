@@ -16,5 +16,7 @@ I settled for the data I got, and headed straight to Microsoft SQL SERVER to beg
 I created a database named Customer_Profile on the server workbench. 
 my next step was to create a Table into the database.
 
+![2](https://github.com/Emem-Data/MessyData2/assets/103915142/e86713dc-cacc-4a99-a8de-b44a35656d5a)
+
 
 
