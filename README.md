@@ -79,6 +79,8 @@ Starting with the second error, we would replace the dot in-between the firstnam
 
 ### UPDATE AFFECTED ROWS USING THE REPLACE KEYWORD
 
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/e1010c4f-41db-4b62-8cce-ad396eb54bc7)
+
 
 
 
