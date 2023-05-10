@@ -63,6 +63,8 @@ Now that I know this, I proceeded to replacing the null values in the Age field 
 
 ## REPLACING NULL VALUES IN AGE COLUMN WITH THE MEAN AGE.
 
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/0176b38d-86a8-47f2-9a79-7bcd79d3eae3)
+
 
 
 
