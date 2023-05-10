@@ -116,6 +116,10 @@ Now! let's check our final dataset after the cleaning process is done
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/a225edc8-82d4-43ac-8263-2dfd80e56b64)
 
+We can see that originally, we had 35 rows and 5 columns. But at the end of the cleaning process, we have 31 rows and 5 columns.
+
+
+## CONCLUSION
 
 
 
