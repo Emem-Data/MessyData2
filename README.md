@@ -20,7 +20,7 @@ my next step was to create a Table into the database.
 
 ![2](https://github.com/Emem-Data/MessyData2/assets/103915142/e86713dc-cacc-4a99-a8de-b44a35656d5a)
 
-I figured I had added an extra column with the same feature (Phone and PhoneNumber) and I have to drop one of them. And it had to be the Phone column.
+I figured I had added an extra column with the same feature (Phone and PhoneNumber) and I had to drop one of them. And it had to be the Phone column.
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/4bf0d8ad-bdfa-45d8-830b-0a5a5136091f)
 
@@ -30,7 +30,7 @@ Now that the Table Customer_Info has been created, my next step was to insert th
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/d8e90709-5bf0-4b75-bbd9-7a0f85b425ac)
 
-😅 I felt proud right there, inputing every value wasn't an easy task. I also replaced every empty cell with NULL because I ran into errors trying to insert as empty strings.
+😅 I felt proud right there, inputing every value wasn't an easy task. I also replaced every empty cell with NULL because I ran into errors trying to insert empty strings.
 
 Moving forward, I checked if my data was intact, and yayy!
 
@@ -44,16 +44,16 @@ My next step was to confirm the number of rows and columns in the table created.
 
 So we see that there are 35 Rows and 5 Columns. 
 
-I then proceeded to check for the number of missing values across each column.
+I then proceeded to check for the number of missing values across the Age, Email, and PhoneNumber columns.
 
 ## 4. NO OF MISSING VALUES IN AGE, EMAIL, AND PHONE COLUMNS
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/20a917be-9b82-413c-8450-a5448f949887)
 
-Now we get to an interesting and important point of the data cleaning stage. We have seen that 4 values in the Age column are missing, while we have 1 missing value in the Email column and 3 missing values in the PhoneNumber column. 
+Now, we get to an interesting and important aspect of the data cleaning stage. We have seen that 4 values in the Age column are missing, while we have 1 missing value in the Email column and 3 missing values in the PhoneNumber column. 
 let's start with the Age column. 
 
-My first approach was to check if there were outliers in the column because I wanted to replace every NULL value in the field with the Mean age of the users. From my knowledge of Outliers, I know full well that the Mean is greatly affected by outliers than the Median and the Median is a better approach if we have great outliers. 
+My first approach was to check if there were outliers in the column because I wanted to replace every NULL value in the field with the Mean age of the users. From my knowledge of Outliers, I know full well that the Mean is greatly affected by outliers than the Median and the Median is a better approach for replacement if we have great outliers. 
 
 ## 5. CHECK THE AGE COLUMN FOR OUTLIERS.
 
@@ -67,12 +67,12 @@ Now that I know this, I proceeded to replace the null values in the Age field wi
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/0176b38d-86a8-47f2-9a79-7bcd79d3eae3)
 
-The Mean age of the Column is 35, and so each of the NULL values was replaced with the age '35'.
+The Mean age of the Column is 35, and so each of the NULL values were replaced with the age '35'.
 
 Now let's fix the Email column.
 
 ## 7. EMAIL COLUMN CLEANING
-We already noted that there is only one null value in the email column, but beyond that, there are a lot of inconsistencies in the column. Some email addresses don't contain a domain name. We also see that in between some emails, we have a "firstname.lastname@domain.com" format. there shouldn't be a "." in-between the email address, so we'd handle that.
+We already noted that there is only one null value in the email column, but beyond that, there are a lot of inconsistencies in the column. Some email addresses don't contain domain name. We also see that in between some emails, we have a "firstname.lastname@domain.com" format. There shouldn't be a "." in between the email address, so we'd handle that.
 
 Starting with the second error, we would replace the dot in between the first name and last name with an empty string.
 
@@ -98,7 +98,7 @@ for this cleaning process, I am assuming that the email field is very important 
 
 Unto the next!!...
 
-My next move was to clean the Phone section. (Not gonna lie, I was getting exhausted at this point, but there's a hope of fulfillment seeing Clean data... so let's move 🚀.)
+My next move was to clean the Phone section. (Not gonna lie, I was getting exhausted at this point, but there's fulfillment in abundance seeing Clean data... so let's move 🚀.)
 
 ## 11. PHONE NUMBER COLUMN CLEANING
 
@@ -106,7 +106,7 @@ My first approach here was to check for the length of each row in the column. We
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/e7fc6936-7013-444f-9803-dd632eebc3dc)
 
-We can see that 26 rows have characters greater than 10. We also see that the extra characters came from (dashes) in between the rows, (Spaces), and (brackets). We would need to remove these special characters.
+We can see that 26 rows have characters greater than 10. We also see that the extra characters came from (dashes), (Spaces), and (brackets) in between the digits. We would need to remove these special characters.
 
 ### 12. UPDATING THE PHONE NUMBER COLUMN BY REMOVING SPECIAL CHARACTERS.
 
