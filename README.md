@@ -104,7 +104,9 @@ My first approach here was to check for the length of each row in the column. We
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/e7fc6936-7013-444f-9803-dd632eebc3dc)
 
+We can see that 26 rows have characters greater than 10. We also see that the extra characters came from (dashes) in-between the rows, (Spaces), and (brackets). We would need to remove these special characters.
 
+### UPDATING THE PHONE NUMBER COLUMN BY REMOVING SPECIAL CHARACTERS.
 
 
 
