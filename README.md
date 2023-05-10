@@ -82,6 +82,13 @@ Starting with the second error, we would replace the dot in-between the firstnam
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/e1010c4f-41db-4b62-8cce-ad396eb54bc7)
 
 
+Yess!!, I did it 💃.
+
+Next on the Line is to fix the Emails without domains. 
+
+for this cleaning process, i am assuming that the email field is very important and users with no traceable email or No email values will be removed from the table. I noticed that chatgpt provided same phone numbers for some users, and anither unique identity after the ID column should be the email address, hence the restrictions.
+
+## DELETE ROWS WITH NULL VALUE AND NO DOMAIN
 
 
 
