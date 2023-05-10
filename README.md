@@ -44,6 +44,9 @@ So we see that there are 35 Rows and 5 Columns.
 
 I then proceeded to check for the numbers of missing values across each column.
 
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/20a917be-9b82-413c-8450-a5448f949887)
+
+
 
 
 
