@@ -110,7 +110,7 @@ We can see that 26 rows have characters greater than 10. We also see that the ex
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/37750e32-26db-457c-9309-c256829335fb)
 
-we would not be working on the NULL values in the phone Number column. There are repeated phone numbers for different users and a working on the Null Value won't make the column any better. 
+we would not be working on the NULL values in the Phone Number column. There are repeated phone numbers for different users and working on the Null Value won't make the column any better. 
 
 Now! let's check our final dataset after the cleaning process is done 
 
@@ -121,6 +121,9 @@ We can see that originally, we had 35 rows and 5 columns. But at the end of the 
 
 ## CONCLUSION
 
+Data cleaning is a crucial step in the data analysis process, as it ensures that the data used for analysis is accurate, consistent, and reliable. In this analysis, I used SQL to clean a dataset of 35 rows and 5 columns generated from CHATGPT.
+
+Overall, this analysis demonstrates the power of SQL as a tool for data cleaning and preparation. By leveraging SQL's robust features and functions, we can ensure that the data used for analysis is accurate, consistent, and reliable, and make more informed decisions as a result. It also touch upon the potential of language models like ChatGPT to generate data and assist in data analysis.
 
 
 
