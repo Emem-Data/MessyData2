@@ -22,6 +22,10 @@ I figured I had added an extra column with the same feature (Phone and PhoneNumb
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/4bf0d8ad-bdfa-45d8-830b-0a5a5136091f)
 
+Now that the Table Customer_Info has been created, my next step was to insert the records into the Table. 
+
+## INSERT DATA INTO THE TABLE CREATED
+
 
 
 
