@@ -26,6 +26,9 @@ Now that the Table Customer_Info has been created, my next step was to insert th
 
 ## INSERT DATA INTO THE TABLE CREATED
 
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/d8e90709-5bf0-4b75-bbd9-7a0f85b425ac)
+
+
 
 
 
