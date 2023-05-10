@@ -102,6 +102,8 @@ My next move was to clean the Phone section. (Not gonna lie, I was getting exhau
 
 My first approach here was to check for the length of each row in the column. We ought to have 10 digits.
 
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/e7fc6936-7013-444f-9803-dd632eebc3dc)
+
 
 
 
