@@ -65,12 +65,12 @@ Now that I know this, I proceeded to replace the null values in the Age field wi
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/0176b38d-86a8-47f2-9a79-7bcd79d3eae3)
 
-The Mean age of the Column is 35, and so each of the NULL values was replaced with age '35'.
+The Mean age of the Column is 35, and so each of the NULL values was replaced with the age '35'.
 
 Now let's fix the Email column.
 
 ## EMAIL COLUMN CLEANING
-We already noted that there is only one null value in the email column, but beyond that, there are a lot of inconsistencies in the column. Some email addresses don't contain a domain name. We also see that in-between some emails, we have a "firstname.lastname@domain.com" format. there shouldn't be a "." in-between the email address, so we'd handle that.
+We already noted that there is only one null value in the email column, but beyond that, there are a lot of inconsistencies in the column. Some email addresses don't contain a domain name. We also see that in between some emails, we have a "firstname.lastname@domain.com" format. there shouldn't be a "." in-between the email address, so we'd handle that.
 
 Starting with the second error, we would replace the dot in between the first name and last name with an empty string.
 
@@ -82,11 +82,11 @@ Starting with the second error, we would replace the dot in between the first na
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/e1010c4f-41db-4b62-8cce-ad396eb54bc7)
 
 
-Yess!!, I did it 💃.
+Yes!!, I did it 💃.
 
 Next on the Line is to fix the Emails without domains. 
 
-for this cleaning process, i am assuming that the email field is very important and users with no traceable email or No email values will be removed from the table. I noticed that chatgpt provided same phone numbers for some users, and anither unique identity after the ID column should be the email address, hence the restrictions.
+for this cleaning process, I am assuming that the email field is very important and users with no traceable email or No email values will be removed from the table. I noticed that chatgpt provided the same phone numbers for some users, and another unique identity after the ID column should be the email address, hence the restrictions.
 
 ## DELETE ROWS WITH NULL VALUE AND NO DOMAIN
 
@@ -96,7 +96,7 @@ for this cleaning process, i am assuming that the email field is very important 
 
 Unto the next!!...
 
-My next move was to clean the Phone section. (Not gonna lie, I was getting exhausted at this point, but there's a hope of fulfillment seeing a Clean data... so let's move 🚀.)
+My next move was to clean the Phone section. (Not gonna lie, I was getting exhausted at this point, but there's a hope of fulfillment seeing Clean data... so let's move 🚀.)
 
 ## PHONE NUMBER COLUMN CLEANING
 
@@ -104,11 +104,12 @@ My first approach here was to check for the length of each row in the column. We
 
 ![image](https://github.com/Emem-Data/MessyData2/assets/103915142/e7fc6936-7013-444f-9803-dd632eebc3dc)
 
-We can see that 26 rows have characters greater than 10. We also see that the extra characters came from (dashes) in-between the rows, (Spaces), and (brackets). We would need to remove these special characters.
+We can see that 26 rows have characters greater than 10. We also see that the extra characters came from (dashes) in between the rows, (Spaces), and (brackets). We would need to remove these special characters.
 
 ### UPDATING THE PHONE NUMBER COLUMN BY REMOVING SPECIAL CHARACTERS.
 
-![image](https://github.com/Emem-Data/MessyData2/assets/103915142/b3f5d245-5aa5-4ea8-9616-efc3ab477257)
+![image](https://github.com/Emem-Data/MessyData2/assets/103915142/37750e32-26db-457c-9309-c256829335fb)
+
 
 
 
