@@ -7,7 +7,7 @@ By leveraging cutting-edge technology, we can access larger and more diverse dat
 
 It started with me asking the chatgpt to provide messy data of 50 to 100 rows. We had to go back and forth but it could only provide as many as 35 rows in a codebox.
 
-Busiest Days                                                                                        |  Busiest Times
+What I ordered                                                                                    |  What I got
 -------------------------------------------------------------------------------------------------------------|------------------------- 
 ![2](https://github.com/Emem-Data/MessyData2/assets/103915142/820fa997-f26f-4a71-9771-bf71ec4e5f69) | ![1](https://github.com/Emem-Data/MessyData2/assets/103915142/2e314da7-8b26-43f6-8ddb-3d2fc508c202)
 
